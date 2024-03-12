@@ -1,0 +1,10 @@
+.btn{
+    width: 229px;
+height: 42px;
+flex-shrink: 0;
+}
+ 
+.products__btn{
+    width: 100px;
+height: 60px;
+}
